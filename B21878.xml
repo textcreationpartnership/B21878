@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The address of the Lords spiritual and temporal, and Commons assembled in Parliament, to the King's most excellent Majesty. Presented by the right honourable the Lord Marquess of Hallifax, Lord Privy Seal, and Speaker to the House of Lords. In the banqueting-house at White-hall, the eighth of March, 168 [sic] with His Majesty's most gratious answer thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21878</idno><idno type="EEBO-CITATION">99889636</idno>
+  <idno type="VID">188672</idno>
+  <idno type="EEBO-PROQUEST">2240914213</idno>
+  
+            <idno type="OCLC"> 11230542</idno>
+            <idno type="STC">Wing E1186</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[51]</idno>
+            <idno type="STC">ESTC R29995</idno>
+            <idno type="PROQUEST">ocm99889636</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889636e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188672)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[52])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The address of the Lords spiritual and temporal, and Commons assembled in Parliament, to the King's most excellent Majesty. Presented by the right honourable the Lord Marquess of Hallifax, Lord Privy Seal, and Speaker to the House of Lords. In the banqueting-house at White-hall, the eighth of March, 168 [sic] with His Majesty's most gratious answer thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>[4], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Partridge, Matthew Gillyflower, and Samuel Heyrick, printers to the House of Lords,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688/9. [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With preliminary order-to-print leaf.</note>
+                  <note>In this edition, the 16th line of title ends "the eighth of March, 168". Another edition ends "the eighth of March, 1688/9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:188672:1"/>
+            <p> THE ADDRESS OF THE LORDS SPIRITUAL and TEMPORAL, AND COMMONS Assembled in PARLIAMENT, TO THE KING's MOST EXCELLENT MAJESTY.</p>
+            <p>Presented by the Right Honourable The LORD MARQUESS of <hi>HALLIFAX,</hi> Lord Privy Seal, and Speaker to the House of Lords.</p>
+            <p>In the <hi>Banqueting-House</hi> at <hi>White-hall,</hi> the Eighth of <hi>March,</hi> 168<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> WITH His Majesty's Most GRATIOUS ANSWER thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Partridge, Matthew Gillyflower,</hi> and <hi>Samuel Heyrick,</hi> Printers to the House of Lords. 1688/9.</p>
+            <pb facs="tcp:188672:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb n="1" facs="tcp:188672:2"/>
+            <head>THE ADDRESS OF THE Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons Assembled in Parliament, to the King's most Excellent Majesty.</head>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 5 Martii, 1688/9.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E Your Majesty's most faith<g ref="char:EOLhyphen"/>full and dutifull Subjects, the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, and Commons assembled in Parliament, being highly sensible of our late great and signal Deliverance from Popery and Arbitra<g ref="char:EOLhyphen"/>ry Power, whereof it hath pleased Almighty God to make Your Majesty the glorious Instru<g ref="char:EOLhyphen"/>ment, and desiring to the utmost of our abilities to express our Gratitude to Your Majesty for so great and generous an Ʋndertaking, no less necessary for the Support of the Protestant
+<pb n="2" facs="tcp:188672:3"/> Interest in <hi>Europe,</hi> than for the recovering and maintaining the Civil Rights and Li<g ref="char:EOLhyphen"/>berties of these Nations, so notoriously inva<g ref="char:EOLhyphen"/>ded and undermined by Popish Counsels and Counsellours, and being likewise fully con<g ref="char:EOLhyphen"/>vinced of the restless Spirits, and the con<g ref="char:EOLhyphen"/>tinued Endeavours of Your Majesty's and and the Nation's Enemies, for the Extirpa<g ref="char:EOLhyphen"/>tion of the Protestant Religion, and the Sub<g ref="char:EOLhyphen"/>version of our Laws and Liberties, do u<g ref="char:EOLhyphen"/>nanimously declare, That we will stand by and assist Your Majesty with our Lives and Fortunes in supporting Your Alliances abroad, in reducing of <hi>Ireland,</hi> and in defence of the Protestant Religion and of the Kingdom.</p>
+         </div>
+         <div type="response">
+            <pb n="3" facs="tcp:188672:3"/>
+            <head>HIS MAJESTY's MOST GRACIOUS ANSWER TO THE ADDRESS Of Both HOUSES of PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F any thing could add to the E<g ref="char:EOLhyphen"/>steem and Affection I have for Parliaments, and particularly for this, they would be much en<g ref="char:EOLhyphen"/>creased by the Kindness you shew to me, and the Zeal you express for the Publick Good, in the Address you have made, which in the Manner, as well as the Matter, hath eve<g ref="char:EOLhyphen"/>ry
+<pb n="4" facs="tcp:188672:4"/> thing in it that ought to recommend it to Me.</p>
+            <p>I will assure you that I will never abuse the Confidence you shall put in me, being fully per<g ref="char:EOLhyphen"/>suaded, that there is no sure Foundation of a good Agreement between a King and his Peo<g ref="char:EOLhyphen"/>ple, but a mutual Trust; when that is once bro<g ref="char:EOLhyphen"/>ken, a Government is half dissolved; it shall therefore be my chief Care never to give any Parliament cause to distrust me: And the best Method I can use for that purpose, is never to expect any thing from them but that which shall be their own Interest to grant.</p>
+            <p>I came hither for the Good of the Kingdom, and since it is at your desire that I am in this Station, I shall still pursue the same ends that brought me.</p>
+            <p>God hath been pleased to make me instru<g ref="char:EOLhyphen"/>mental to redeem you from the Ills you feared, and it is still my Desire, as well as my Duty, to endeavour to preserve your Religion, Laws, and Liberties, which were the onely Induce<g ref="char:EOLhyphen"/>ments that brought me into <hi>England,</hi> and to those I ascribe the Blessings that have attended this Undertaking.</p>
+            <p>When I spoke last to you, I told you of the necessity of Assisting our Allies, and more espe<g ref="char:EOLhyphen"/>cially the States of <hi>Holland,</hi> whose readiness to relieve you, at their so great Hazard and Ex<g ref="char:EOLhyphen"/>pence,
+<pb n="5" facs="tcp:188672:4"/> from the Extremities you lay under, needs no other Arguments to move you to the consi<g ref="char:EOLhyphen"/>deration of it.</p>
+            <p>As I was then a Witness of their Zeal and Af<g ref="char:EOLhyphen"/>fection to promote the Expedition, and to second my Endeavours even with a Neglect of their own Safety, so I am now sensible of the inevitable ruine they have drawn upon Themselves, by giving you this assistence, if you should not return it to them.</p>
+            <p>They really exhausted themselves to such a Degree, both as to Men and Money, that it is not easily to be imagined, and I am confident your Generosity will have as little bounds to<g ref="char:EOLhyphen"/>wards them, as theirs had towards you; and that you will not only enable Me to make good the Treaty with them, and repay what they have actually laid out upon this occa<g ref="char:EOLhyphen"/>sion, of which our Account shall be given to you, but that you will farther support them, to the utmost of your Ability, against the Power of their Enemies, who must be yours too, by their Interest, and by their Religion; and do certainly design the Ruine of <hi>Holland</hi> to be a step to your destruction.</p>
+            <p>I need not take pains to tell you the deplora<g ref="char:EOLhyphen"/>ble condition of <hi>Ireland,</hi> which by the Zeal and Violence of the Popish Party there, and by the assistence and encouragements they have from <hi>France,</hi> is brought to that pass, that it is not
+<pb n="6" facs="tcp:188672:5"/> adviseable to attempt the Reducing it, other<g ref="char:EOLhyphen"/>wise than by a very considerable Force, which I think ought not to be less than Twenty Thou<g ref="char:EOLhyphen"/>sand Horse and Foot; which by the Blessing of God, will make the Work shorter, and in con<g ref="char:EOLhyphen"/>sequence, the Charge easier, though the first Ex<g ref="char:EOLhyphen"/>pence must of necessity be very great.</p>
+            <p>You are to consider that towards the more speedy and effectual success in relation to <hi>Ireland,</hi> as well as with a regard to <hi>France,</hi> there must be such a Fleet as may, in Conjunction with the States, make us so entirely Masters of the Sea, that nothing can be sent from <hi>France,</hi> either to <hi>Ireland,</hi> or any where else, that may give di<g ref="char:EOLhyphen"/>sturbance to us, or our Allies.</p>
+            <p>I must also recommend the Consideration of the Revenue to you, that it may be so Set<g ref="char:EOLhyphen"/>led, as that it my be Collected without di<g ref="char:EOLhyphen"/>spute.</p>
+            <div type="part">
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>These things will amount to a great Summ, and must of consequence be a present weight upon the People; but considering that nei<g ref="char:EOLhyphen"/>ther your Religion, nor your Safety, can pro<g ref="char:EOLhyphen"/>bably be secured without these means, I conclude you will think nothing can be too great a price for their preservation. And I will engage my Solemn Word to You, That whatever you
+<pb n="7" facs="tcp:188672:5"/> shall give in order to these publick ends, shall be strictly applyed to them; and that as you so freely offer to hazard all that is dear to you, so I shall as freely expose my Life for the sup<g ref="char:EOLhyphen"/>port of the Protestant Religion, and the Safety and Honour of the Nation.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+         <div type="order_to_print">
+            <pb facs="tcp:188672:6"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris</hi> 8 <hi>Martii</hi> 1688/9.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords Spiritual and Temporal in Parliament Assembled, That the Address of both Houses Presented to His Majesty this day, and His Majesty's most Gracious Answer thereunto be forthwith Printed and Published,</p>
+            <closer>
+               <signed>
+                  <hi>Jo. Browne,</hi> Cleric. Parliamentor.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
